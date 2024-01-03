@@ -1,0 +1,56 @@
+
+.screen3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wave-one .section {
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+}        
+.wave-one .section-white {
+  padding: 30px 0;
+}
+.wave-one .section-color {
+  background-color: #337AB7;
+  padding: 50px 0 30px 0;
+  color: #FFF;
+}
+.wave-one .separator-white {
+  font: 0/0 a;
+}
+.wave-one .separator-color {
+  background-color: #337AB7;
+  font: 0/0 a;
+}
+
+
+@media screen and (max-width: 1920px) {
+ 
+}
+
+@media screen and (max-width: 1600px) {
+ 
+}
+
+
+
+@media screen and (max-width: 640px) {
+
+}
+
+
+@media screen and (max-width: 320px) {
+ 
+}
+
+
+
+
+
+
+
+
