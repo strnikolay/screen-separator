@@ -5,6 +5,10 @@
   align-items: center;
 }
 
+.six{
+  width: 100%;
+}
+
 .six .section {
   text-align: center;
   font-size: 22px;
@@ -26,6 +30,7 @@
   background-color: #337AB7;
   font: 0/0 a;
 }
+
 
 
 @media screen and (max-width: 1920px) {
