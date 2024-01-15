@@ -1,6 +1,6 @@
-import "./screen3.css"
+import "./screen11.css"
 
-function MainThirdScreen () {
+function MainElevenScreen () {
 
 return(
   
@@ -35,4 +35,4 @@ return(
 
 )}
 
-export default MainThirdScreen;   
+export default MainElevenScreen;   
